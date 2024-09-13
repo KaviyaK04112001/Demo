@@ -29,5 +29,8 @@
   .columns > div > div {
     flex: 1;
     order: unset;
+     .columns > div > div {
+    flex: 1;
+    order: unset;
   }
 }
